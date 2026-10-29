@@ -1,0 +1,6 @@
+{
+  "version": "3.1.1",
+  "url": "https://github.com/Sunday4jtm/ai-study-supervisor/releases",
+  "notes": "3.1.1：移除桌宠柔光；应用标识改为中性名（首次启动自动迁移旧数据，API Key 需重填一次）。",
+  "published_at": "2026-10-29"
+}
