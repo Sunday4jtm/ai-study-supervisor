@@ -53,7 +53,7 @@
 
 ### Windows 10 / 11（64 位）
 
-**[前往 Releases 下载 `AI学习监督员_x.y.z_x64-setup.exe`](../../releases/latest)**
+**[前往 Releases 下载 `AI-Study-Supervisor_x.y.z_x64-setup.exe`](../../releases/latest)**
 
 1. 双击安装包
 2. 若提示「Windows 已保护你的电脑」→ **更多信息** → **仍要运行**（未购买代码签名证书，不是病毒）
@@ -65,7 +65,7 @@
 
 ### macOS（Apple Silicon）
 
-**[前往 Releases 下载 `AI学习监督员_x.y.z_aarch64.dmg`](../../releases/latest)**
+**[前往 Releases 下载 `AI-Study-Supervisor_x.y.z_aarch64.dmg`](../../releases/latest)**
 
 1. 打开 DMG，把 App 拖进「应用程序」
 2. 第一次打开：**右键 → 打开 → 打开**（未签名，双击会被 Gatekeeper 拦住）
