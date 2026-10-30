@@ -1,0 +1,69 @@
+name: 问题反馈
+description: 使用中遇到报错、卡住、显示异常，或者想提建议
+title: "[问题] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **贴日志前请先删掉 API Key。** 设置页里看到的是掩码（`sk-••••xxxx`），日志里也不该出现完整 Key；
+        如果不小心贴了，去 [智谱开放平台](https://bigmodel.cn) 把那把 Key 删掉重建即可。
+
+  - type: input
+    id: version
+    attributes:
+      label: 应用版本
+      description: 设置 →「关于与更新」第一行就是
+      placeholder: 3.1.2
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: 操作系统
+      options:
+        - Windows 11
+        - Windows 10
+        - macOS（Apple Silicon）
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 怎么复现
+      description: 按顺序写清楚点了几下、填了什么，别人才能照着重现
+      placeholder: |
+        1. 打开「知识库」，导入一个 20 页的 PDF
+        2. 切到「笔记问答」，问「第二章讲了什么」
+        3. 一直转圈，5 分钟后报错
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望什么 / 实际什么
+      placeholder: |
+        期望：正常返回带引用的回答
+        实际：显示"请求失败"，状态灯变红
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志（可选，但很有用）
+      description: 设置 →「诊断信息」里有日志路径，把 sidecar.log 最后 20 行贴在这里
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我确认没有在内容里粘贴完整的 API Key
+          required: true
