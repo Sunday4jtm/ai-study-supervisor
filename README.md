@@ -49,6 +49,8 @@
 
 ## 下载
 
+当前版本 **3.1.6**（[更新日志](CHANGELOG.md)）· 安装包在 [Releases](../../releases/latest)
+
 <a id="windows-10--11"></a>
 
 ### Windows 10 / 11（64 位）
