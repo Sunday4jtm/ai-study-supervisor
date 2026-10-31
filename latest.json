@@ -1,6 +1,6 @@
 {
-  "version": "3.1.6",
+  "version": "3.2.1",
   "url": "https://github.com/Sunday4jtm/ai-study-supervisor/releases",
-  "notes": "3.1.6：修复 macOS 对话区滚不动；设置页可直接切换当前模型；出题遇上游瞬时 500 自动重试；新增不联网演示模式。",
-  "published_at": "2026-10-31"
+  "notes": "3.2.1：ASR 转写移入独立子进程，原生解码崩溃隔离；含 3.2.0 视频导入与安全 hardening。",
+  "published_at": "2026-11-01"
 }
