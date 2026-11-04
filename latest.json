@@ -1,6 +1,6 @@
 {
-  "version": "3.3.0",
+  "version": "3.3.1",
   "url": "https://github.com/Sunday4jtm/ai-study-supervisor/releases",
-  "notes": "3.3.0：新增 MCP 检索服务（web 搜索/抓取 + 知识库混合检索）与 GET /api/kb/search；含 3.2.2 large-v3 词表修复。",
-  "published_at": "2026-11-02"
+  "notes": "3.3.1：父子分块检索（Hit@3 93.8% / MRR 0.818）；设置保存链路与实时刷新修复；首字延迟优化；旧知识库需重新导入以启用父块。",
+  "published_at": "2026-11-04"
 }
