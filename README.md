@@ -34,7 +34,7 @@
 | **自动批改** | 客观题直接判分；主观题给评分要点，答错自动进错题本 |
 | **错题本 + 复习** | 按遗忘曲线提醒重练，答对才算掌握 |
 | **学习状态** | 连胜、正确率、薄弱知识点、"自评 vs 实证"的失准率 |
-| **桌宠** | 一只会在你学习时待机、答错时安慰你的小助手（可关闭） |
+| **桌宠** | 一只会在你学习时待机、答错时安慰你的小助手（可关闭）；3.4.0 新增吃点心/擦抹布/扫地等待机动作 |
 
 <table>
 <tr>
@@ -47,9 +47,20 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%"><img src="screenshots/chat-citations.png" alt="问答与依据片段"></td>
+<td width="50%"><img src="screenshots/desktop-pet.png" alt="桌面端桌宠"></td>
+</tr>
+<tr>
+<td align="center"><sub>问答：答案带出处，依据片段摘到重点句（3.4.0）</sub></td>
+<td align="center"><sub>桌面端桌宠：待机动作陪学（3.4.0 新动作）</sub></td>
+</tr>
+</table>
+
 ## 下载
 
-当前版本 **3.1.6**（[更新日志](CHANGELOG.md)）· 安装包在 [Releases](../../releases/latest)
+当前版本 **3.4.0**（[更新日志](CHANGELOG.md)）· 安装包在 [Releases](../../releases/latest)
 
 <a id="windows-10--11"></a>
 
