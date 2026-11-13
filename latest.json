@@ -1,6 +1,6 @@
 {
-  "version": "3.3.1",
+  "version": "3.4.0",
   "url": "https://github.com/Sunday4jtm/ai-study-supervisor/releases",
-  "notes": "3.3.1：父子分块检索（Hit@3 93.8% / MRR 0.818）；设置保存链路与实时刷新修复；首字延迟优化；旧知识库需重新导入以启用父块。",
-  "published_at": "2026-11-04"
+  "notes": "3.4.0：桌宠新动作（吃点心/擦抹布/扫地）与睁眼锚点；依据片段问句感知摘录；限流/断流不再当成功答案；NO_PROXY IPv6 崩溃修复；四包安全升级。",
+  "published_at": "2026-11-13"
 }
