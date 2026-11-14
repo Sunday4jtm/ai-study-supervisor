@@ -1,6 +1,6 @@
 {
   "version": "3.4.0",
   "url": "https://github.com/Sunday4jtm/ai-study-supervisor/releases",
-  "notes": "3.4.0：桌宠新动作（吃点心/擦抹布/扫地）与睁眼锚点；依据片段问句感知摘录；限流/断流不再当成功答案；NO_PROXY IPv6 崩溃修复；四包安全升级。",
+  "notes": "3.4.0：依据片段问句感知摘录（摘到命中重点句、无关来源不引用）；限流/断流不再当成功答案；NO_PROXY IPv6 崩溃修复；四包安全升级；附带桌宠新动作。",
   "published_at": "2026-11-13"
 }
