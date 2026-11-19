@@ -63,8 +63,8 @@
 <td width="50%"><img src="screenshots/quiz.png" alt="每日测验"></td>
 </tr>
 <tr>
-<td align="center"><sub>网页版：视频导入入口默认可见、首次下载说明常驻（3.4.1）；桌面 App 同功能</sub></td>
-<td align="center"><sub>网页版：每日测验（Agent 出题→作答→批改）；3.4.1 弱模型出题提速</sub></td>
+<td align="center"><sub>桌面 App：视频导入入口与上传笔记并列、默认可见、首次下载说明常驻（3.4.1）</sub></td>
+<td align="center"><sub>桌面 App：每日测验（Agent 出题→作答→批改）；3.4.1 弱模型出题提速</sub></td>
 </tr>
 </table>
 
