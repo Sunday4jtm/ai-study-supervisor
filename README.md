@@ -57,6 +57,17 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%"><img src="screenshots/kb-video-entry.png" alt="知识库视频入口"></td>
+<td width="50%"><img src="screenshots/quiz.png" alt="每日测验"></td>
+</tr>
+<tr>
+<td align="center"><sub>网页版：视频导入入口默认可见、首次下载说明常驻（3.4.1）；桌面 App 同功能</sub></td>
+<td align="center"><sub>网页版：每日测验（Agent 出题→作答→批改）；3.4.1 弱模型出题提速</sub></td>
+</tr>
+</table>
+
 ## 检索架构（RAG）
 
 ```
@@ -77,7 +88,7 @@
 
 ## 下载
 
-当前版本 **3.4.0**（[更新日志](CHANGELOG.md)）· 安装包在 [Releases](../../releases/latest)
+当前版本 **3.4.1**（[更新日志](CHANGELOG.md)）· 安装包在 [Releases](../../releases/latest)
 
 <a id="windows-10--11"></a>
 
